@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm a Creative Technologist. I'm also a Product Designer who loves to dabble in code. 
-I love p5js and have created sites with Reactjs, Astro, and threejs.
----
-I'm currently learning Astor and Tailwind.
+# I'm a Creative Technologist. I'm also a Product Designer who loves to dabble in code. I love p5js and have created sites with Reactjs, Astro, and threejs hosting on Vercel.
+
+
+I started coding with processing and have created various Computer Vision projects with p5js.
+
+As a Product Designer, I love learning new Web Development tools. Currently, learning Astro and Tailwind CSS.
 
 <!--
 **crzikrn/crzikrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
